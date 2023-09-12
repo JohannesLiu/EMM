@@ -1,2 +1,2 @@
 # EMM
-C++ Implementation fo Efficient Memory Management Simulation
+C++ Implementation for Efficient Memory Management Simulation
