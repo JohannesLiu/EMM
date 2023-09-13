@@ -1,2 +1,2 @@
 # EMM
-C++ Implementation for Efficient Memory Management Simulation
+C++ Implementation for the Paper "EFFICIENT MEMORY MANAGEMENT FOR DEEP NEURAL NET INFERENCE"
